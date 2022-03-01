@@ -1,6 +1,6 @@
 # Beginner-Question1
 Level :  Beginner 
-Question1 - 24h
+Question1 
 Create a portal where the employees can post their resumes and apply for the available opening positions in the company. Also, the project managers can add an opening for the project.
 A position needs to have the following values:
 •	Project Name – String - required
@@ -15,7 +15,6 @@ The portal will support 2 kinds of users:
 2.	Employees
 If an employee is interested in a position, he/she can apply for the same.
 For simplicity, the following needs to be implemented:
-Hardcodez id-ul unui user
 1.	Create a web server with the use of http module.
 2.	Add the following users in the database: 
 a.	Project Managers - Add 2 users in the database (Id, Name,UserName,Password, Role)
